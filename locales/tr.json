@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "Anasayfa",
+		"about": "Hakkımda",
+		"works": "Çalışmalarım",
+		"contact": "İletişim",
+		"blog": "Blog",
+		"description": "Full-stack Web Geliştiricisi. JavaScript ve TypeScript ile web uygulamaları ve hizmetleri oluşturuyorum. Hakkımda daha fazla bilgi alın ve çalışmalarımı görüntüleyin."
+	},
+	"aria": {
+		"logo": "Takma adımı içeren logo yerine kullanılan, bir metin logosu. Ayrıca takma adımdan sonra bir nokta var ve bu nokta yazıdan farklı bir renkte.",
+		"navigate": "Bu metin sizi tıkladığınızda \"{destination}\" sayfasına yönlendirir.",
+		"about": "Bu metin tarafımca yazılmıştır",
+		"toggle": "Bu düğme menüyü açıp kapatır",
+		"next": "Bu düğme, bir sonraki slayda geçmenizi sağlar",
+		"previous": "Bu düğme, bir önceki slayda geçmenizi sağlar"
+	},
+	"nav": {
+		"home": "Anasayfa",
+		"about": "Hakkımda",
+		"works": "Çalışmalarım",
+		"contact": "İletişim",
+		"blog": "Blog"
+	},
+	"hero": {
+		"headline": "Merhaba, ben {name}.",
+		"subHeadline": "Full-stack Web Geliştiricisi"
+	},
+	"about": {
+		"headline": "Hakkımda",
+		"paragraphs": [
+			"Merhaba! Ben, eski zamanlarda JavaScript ile dans etmeye başlayan, kendi kendini yetiştirmiş dost canlısı web büyücünüzüm.",
+			"Türkiye’de yaşıyorum ve 2017 yılından beri web geliştirme dünyasında aktifim. İlk başta PHP ile başlasam da zamanla JavaScript’e geçiş yaptım ve o zamandan beri JavaScript’in birçok çeşidini öğrendim. Şu anda, web uygulamaları ve hizmetleri oluşturmak için JavaScript ve TypeScript kullanıyorum.",
+			"Son zamanlarda, JavaScript’in birçok çeşidini öğrendim ve TypeScript’e aşık oldum. TypeScript, JavaScript’in eksikliklerini giderirken, daha güvenli ve daha okunabilir kod yazmamı sağlıyor. Benim için, TypeScript ile çalışmak, bir dijital tango gibi – her kod parçası ve tasarım ayarı, projelerimi mükemmelleştiriyor ve onları İsviçre çakısı kadar işlevsel hale getiriyor.",
+			"Tahmin edin ne oldu? Neredeyse beş yıldır Void Development ekibinin bir parçasıyım – bu, web yıllarında bir ömür demek! Tuhaf hatalarla mücadele etmekten piksel mükemmelliğindeki bir düzeni kutlamaya kadar, klavyeme sabah kahvemden daha fazla bağlandım.",
+			"Yani, kemerlerinizi bağlayın, çünkü her tuhaf ve büyüleyici uygulamayla web’e biraz sihir serpmek için bir görevdeyim."
+		],
+		"experience": {
+			"years": "7 Yıl",
+			"label": "Deneyim"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "Tamamlanan Proje"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "Müşteri"
+		},
+		"read_more": "Daha fazla bilgi"
+	},
+	"selected_works": {
+		"headline": "Seçilmiş Çalışmalarım",
+		"view_all": "Tüm çalışmaları görüntüle"
+	},
+	"tech_stack": {
+		"headline": "Kullandığım Teknolojiler",
+		"tabs": {
+			"code-editors": "Kod Düzenleyiciler",
+			"languages": "Diller",
+			"markup-languages": "İşaretleme Dilleri",
+			"frameworks": "Çerçeveler",
+			"databases": "Veritabanları",
+			"services": "Hizmetler",
+			"other": "Diğerleri"
+		}
+	},
+	"works": {
+		"headline": "Çalışmalarım"
+	},
+	"open_source": {
+		"headline": "Açık Kaynak",
+		"view_all": "Tüm projeleri görüntüle"
+	},
+	"contact": {
+		"headline": "İletişim",
+		"name": "Adınız",
+		"email": "E-posta adresiniz",
+		"message": "Mesajınız",
+		"phone": "Telefon numaranız",
+		"company": "Şirketiniz",
+		"send": "Gönder",
+		"success": "Mesajınız başarıyla gönderildi.",
+		"error": {
+			"required": "{field} alanı zorunludur.",
+			"unknown": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+		}
+	},
+	"cta": {
+		"headline": "Birlikte çalışalım",
+		"subHeadline": "Bir projeniz mi var? Benimle <mail>mail@clqu.dev</mail> adresinden iletişim kurun ve projenizi hayata geçirelim."
+	},
+	"blog": {
+		"headline": "Blog",
+		"read_more": "Devamını oku",
+		"all": "Tümü",
+		"noPosts": "Henüz hiçbir gönderi yok.",
+		"back": "Geri dön"
+	},
+	"footer": {
+		"rights": "Tüm hakları saklıdır."
+	}
+}

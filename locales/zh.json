@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "首页",
+		"about": "关于",
+		"works": "作品",
+		"contact": "联系",
+		"blog": "博客",
+		"description": "全栈 Web 开发者。使用 JavaScript 和 TypeScript 创建 Web 应用程序和服务。了解更多关于我的信息并查看我的作品。"
+	},
+	"aria": {
+		"logo": "一个包含我昵称的文本标志。除此之外，我的昵称后面有一个点，这个点的颜色与文字不同。",
+		"navigate": "点击此文本将导航到\"{destination}\"页面。",
+		"about": "此文本由我编写",
+		"toggle": "此按钮可打开和关闭菜单",
+		"next": "此按钮允许您转到下一张幻灯片",
+		"previous": "此按钮允许您转到上一张幻灯片"
+	},
+	"nav": {
+		"home": "首页",
+		"about": "关于",
+		"works": "作品",
+		"contact": "联系",
+		"blog": "博客"
+	},
+	"hero": {
+		"headline": "你好，我是{name}。",
+		"subHeadline": "全栈 Web 开发人员"
+	},
+	"about": {
+		"headline": "关于我",
+		"paragraphs": [
+			"你好！我是自学成才的友好 Web 向导，从早期开始与 JavaScript 共舞。",
+			"我住在土耳其，自2017年以来一直活跃在 Web 开发领域。尽管一开始使用 PHP，但我逐渐过渡到 JavaScript，并从那时起学习了各种形式的 JavaScript。目前，我使用 JavaScript 和 TypeScript 创建 Web 应用程序和服务。",
+			"最近，我学习了各种形式的 JavaScript，并爱上了 TypeScript。TypeScript 解决了 JavaScript 的缺点，同时让我能够编写更安全和更可读的代码。对我来说，使用 TypeScript 工作就像数字探戈——每段代码和设计设置都完美地完善了我的项目，使它们功能齐全，如同瑞士军刀。",
+			"你猜怎么着？我已经成为 Void Development 团队的一员近五年了——这在 Web 年里是一个生命周期！从与古怪的错误作斗争到庆祝像素完美的布局，我比早晨的咖啡更依赖我的键盘。",
+			"所以，系好安全带，因为我正在进行一个任务，每一个古怪和迷人的应用程序都在 Web 上洒下一些魔法。"
+		],
+		"experience": {
+			"years": "7年",
+			"label": "经验"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "已完成项目"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "客户"
+		},
+		"read_more": "了解更多"
+	},
+	"selected_works": {
+		"headline": "精选作品",
+		"view_all": "查看所有作品"
+	},
+	"tech_stack": {
+		"headline": "我使用的技术",
+		"tabs": {
+			"code-editors": "代码编辑器",
+			"languages": "语言",
+			"markup-languages": "标记语言",
+			"frameworks": "框架",
+			"databases": "数据库",
+			"services": "服务",
+			"other": "其他"
+		}
+	},
+	"works": {
+		"headline": "作品"
+	},
+	"open_source": {
+		"headline": "开源",
+		"view_all": "查看所有项目"
+	},
+	"contact": {
+		"headline": "联系",
+		"name": "你的名字",
+		"email": "你的邮箱地址",
+		"message": "你的信息",
+		"phone": "你的电话号码",
+		"company": "你的公司",
+		"send": "发送",
+		"success": "您的信息已成功发送。",
+		"error": {
+			"required": "{field}字段是必填项。",
+			"unknown": "发生错误。请稍后再试。"
+		}
+	},
+	"cta": {
+		"headline": "让我们一起工作",
+		"subHeadline": "有项目吗？通过<mail>mail@clqu.dev</mail>与我联系，让我们将您的项目变为现实。"
+	},
+	"blog": {
+		"headline": "博客",
+		"read_more": "阅读更多",
+		"all": "所有",
+		"noPosts": "尚无任何帖子。",
+		"back": "返回"
+	},
+	"footer": {
+		"rights": "版权所有。"
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "Inicio",
+		"about": "Acerca de mí",
+		"works": "Mis trabajos",
+		"contact": "Contacto",
+		"blog": "Blog",
+		"description": "Desarrollador web full-stack. Creo aplicaciones y servicios web con JavaScript y TypeScript. Obtén más información sobre mí y ve mis trabajos."
+	},
+	"aria": {
+		"logo": "Un logotipo de texto utilizado en lugar de un logotipo que contiene mi apodo. Además, hay un punto después de mi apodo, y este punto es de un color diferente al del texto.",
+		"navigate": "Este texto le llevará a la página \"{destination}\" al hacer clic.",
+		"about": "Este texto está escrito por mí",
+		"toggle": "Este botón abre y cierra el menú",
+		"next": "Este botón te permite avanzar a la siguiente diapositiva",
+		"previous": "Este botón te permite retroceder a la diapositiva anterior"
+	},
+	"nav": {
+		"home": "Inicio",
+		"about": "Sobre mí",
+		"works": "Trabajos",
+		"contact": "Contacto",
+		"blog": "Blog"
+	},
+	"hero": {
+		"headline": "Hola, soy {name}.",
+		"subHeadline": "Desarrollador Web Full-stack"
+	},
+	"about": {
+		"headline": "Sobre mí",
+		"paragraphs": [
+			"¡Hola! Soy tu amigable mago web que comenzó a bailar con JavaScript en los viejos tiempos, autodidacta.",
+			"Vivo en Turquía y he estado activo en el mundo del desarrollo web desde 2017. Aunque comencé con PHP al principio, gradualmente hice la transición a JavaScript y desde entonces he aprendido varias formas de JavaScript. Actualmente, uso JavaScript y TypeScript para crear aplicaciones y servicios web.",
+			"Recientemente, he aprendido varias formas de JavaScript y me he enamorado de TypeScript. TypeScript soluciona las deficiencias de JavaScript, permitiéndome escribir código más seguro y legible. Para mí, trabajar con TypeScript es como un tango digital: cada pieza de código y configuración de diseño perfecciona mis proyectos y los hace tan funcionales como una navaja suiza.",
+			"¿Adivina qué? He sido parte del equipo de Void Development durante casi cinco años, ¡eso es toda una vida en años web! Desde luchar contra errores peculiares hasta celebrar diseños de píxel perfecto, me he apegado más a mi teclado que a mi café matutino.",
+			"Así que abróchate el cinturón, porque estoy en una misión de esparcir un poco de magia en la web con cada aplicación peculiar y cautivadora."
+		],
+		"experience": {
+			"years": "7 Años",
+			"label": "Experiencia"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "Proyectos Completados"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "Clientes"
+		},
+		"read_more": "Leer más"
+	},
+	"selected_works": {
+		"headline": "Trabajos Seleccionados",
+		"view_all": "Ver todos los trabajos"
+	},
+	"tech_stack": {
+		"headline": "Tecnologías que Uso",
+		"tabs": {
+			"code-editors": "Editores de Código",
+			"languages": "Idiomas",
+			"markup-languages": "Lenguajes de Marcado",
+			"frameworks": "Marcos de Trabajo",
+			"databases": "Bases de Datos",
+			"services": "Servicios",
+			"other": "Otros"
+		}
+	},
+	"works": {
+		"headline": "Trabajos"
+	},
+	"open_source": {
+		"headline": "Código Abierto",
+		"view_all": "Ver todos los proyectos"
+	},
+	"contact": {
+		"headline": "Contacto",
+		"name": "Su Nombre",
+		"email": "Su Dirección de Correo Electrónico",
+		"message": "Su Mensaje",
+		"phone": "Su Número de Teléfono",
+		"company": "Su Empresa",
+		"send": "Enviar",
+		"success": "Su mensaje ha sido enviado con éxito.",
+		"error": {
+			"required": "El campo {field} es obligatorio.",
+			"unknown": "Ocurrió un error. Por favor, inténtelo de nuevo más tarde."
+		}
+	},
+	"cta": {
+		"headline": "Trabajemos Juntos",
+		"subHeadline": "¿Tienes un proyecto? Contáctame en <mail>mail@clqu.dev</mail> y hagamos realidad tu proyecto."
+	},
+	"blog": {
+		"headline": "Blog",
+		"read_more": "Leer más",
+		"all": "Todos",
+		"noPosts": "No hay publicaciones todavía.",
+		"back": "Volver"
+	},
+	"footer": {
+		"rights": "Todos los derechos reservados."
+	}
+}

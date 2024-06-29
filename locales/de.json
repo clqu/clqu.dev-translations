@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "Startseite",
+		"about": "Über mich",
+		"works": "Arbeiten",
+		"contact": "Kontakt",
+		"blog": "Blog",
+		"description": "Full-Stack-Webentwickler. Erstellung von Webanwendungen und -diensten mit JavaScript und TypeScript. Erfahren Sie mehr über mich und sehen Sie sich meine Arbeiten an."
+	},
+	"aria": {
+		"logo": "Ein Textlogo, das anstelle eines Logos mit meinem Spitznamen verwendet wird. Außerdem gibt es nach meinem Spitznamen einen Punkt, und dieser Punkt ist in einer anderen Farbe als der Text.",
+		"navigate": "Dieser Text führt Sie beim Klicken auf die Seite \"{destination}\".",
+		"about": "Dieser Text wurde von mir geschrieben",
+		"toggle": "Diese Taste öffnet und schließt das Menü",
+		"next": "Diese Schaltfläche ermöglicht Ihnen, zur nächsten Folie zu wechseln",
+		"previous": "Diese Schaltfläche ermöglicht Ihnen, zur vorherigen Folie zu wechseln"
+	},
+	"nav": {
+		"home": "Startseite",
+		"about": "Über mich",
+		"works": "Meine Arbeiten",
+		"contact": "Kontakt",
+		"blog": "Blog"
+	},
+	"hero": {
+		"headline": "Hallo, ich bin {name}.",
+		"subHeadline": "Full-Stack Webentwickler"
+	},
+	"about": {
+		"headline": "Über mich",
+		"paragraphs": [
+			"Hallo! Ich bin dein freundlicher Web-Zauberer, der in alten Zeiten mit JavaScript zu tanzen begann und sich selbst beigebracht hat.",
+			"Ich lebe in der Türkei und bin seit 2017 in der Welt der Webentwicklung aktiv. Obwohl ich anfangs mit PHP begonnen habe, bin ich im Laufe der Zeit zu JavaScript gewechselt und habe seitdem viele Varianten von JavaScript gelernt. Derzeit nutze ich JavaScript und TypeScript, um Webanwendungen und -dienste zu erstellen.",
+			"In letzter Zeit habe ich viele Varianten von JavaScript gelernt und mich in TypeScript verliebt. TypeScript behebt die Mängel von JavaScript und ermöglicht es mir, sichereren und besser lesbaren Code zu schreiben. Für mich ist die Arbeit mit TypeScript wie ein digitaler Tango - jedes Stück Code und jede Design-Einstellung perfektioniert meine Projekte und macht sie so funktional wie ein Schweizer Taschenmesser.",
+			"Rate mal was? Ich bin seit fast fünf Jahren Teil des Void Development-Teams - das ist eine Ewigkeit in Webjahren! Vom Kampf gegen seltsame Fehler bis hin zum Feiern pixelgenauer Layouts bin ich mehr an meine Tastatur gebunden als an meinen Morgenkaffee.",
+			"Also, schnall dich an, denn ich bin auf einer Mission, mit jeder seltsamen und faszinierenden Anwendung ein wenig Magie ins Web zu streuen."
+		],
+		"experience": {
+			"years": "7 Jahre",
+			"label": "Erfahrung"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "Abgeschlossene Projekte"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "Kunden"
+		},
+		"read_more": "Mehr erfahren"
+	},
+	"selected_works": {
+		"headline": "Ausgewählte Arbeiten",
+		"view_all": "Alle Arbeiten anzeigen"
+	},
+	"tech_stack": {
+		"headline": "Technologien, die ich verwende",
+		"tabs": {
+			"code-editors": "Code-Editoren",
+			"languages": "Sprachen",
+			"markup-languages": "Auszeichnungssprachen",
+			"frameworks": "Frameworks",
+			"databases": "Datenbanken",
+			"services": "Dienste",
+			"other": "Andere"
+		}
+	},
+	"works": {
+		"headline": "Meine Arbeiten"
+	},
+	"open_source": {
+		"headline": "Open Source",
+		"view_all": "Alle Projekte anzeigen"
+	},
+	"contact": {
+		"headline": "Kontakt",
+		"name": "Ihr Name",
+		"email": "Ihre E-Mail-Adresse",
+		"message": "Ihre Nachricht",
+		"phone": "Ihre Telefonnummer",
+		"company": "Ihre Firma",
+		"send": "Senden",
+		"success": "Ihre Nachricht wurde erfolgreich gesendet.",
+		"error": {
+			"required": "Das Feld {field} ist erforderlich.",
+			"unknown": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+		}
+	},
+	"cta": {
+		"headline": "Lassen Sie uns zusammenarbeiten",
+		"subHeadline": "Haben Sie ein Projekt? Kontaktieren Sie mich unter <mail>mail@clqu.dev</mail> und lassen Sie uns Ihr Projekt verwirklichen."
+	},
+	"blog": {
+		"headline": "Blog",
+		"read_more": "Weiterlesen",
+		"all": "Alle",
+		"noPosts": "Noch keine Beiträge.",
+		"back": "Zurück"
+	},
+	"footer": {
+		"rights": "Alle Rechte vorbehalten."
+	}
+}

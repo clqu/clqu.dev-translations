@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "Home",
+		"about": "About",
+		"works": "Works",
+		"contact": "Contact",
+		"blog": "Blog",
+		"description": "Full-stack Web Developer. Creating web applications and services with JavaScript and TypeScript. Learn more about me and see my works."
+	},
+	"aria": {
+		"logo": "A text logo used instead of a logo containing my nickname. Also, there is a dot after my nickname, and this dot is in a different color than the text.",
+		"navigate": "This text will navigate you to the \"{destination}\" page when clicked.",
+		"about": "This text is written by me",
+		"toggle": "This button toggles the menu",
+		"next": "This button allows you to move to the next slide",
+		"previous": "This button allows you to move to the previous slide"
+	},
+	"nav": {
+		"home": "Home",
+		"about": "About",
+		"works": "Works",
+		"contact": "Contact",
+		"blog": "Blog"
+	},
+	"hero": {
+		"headline": "Hello, I'm {name}.",
+		"subHeadline": "Full-stack Web Developer"
+	},
+	"about": {
+		"headline": "About Me",
+		"paragraphs": [
+			"Hello! I am your friendly web wizard who started dancing with JavaScript in the old days, self-taught.",
+			"I live in Turkey and have been active in the world of web development since 2017. Although I started with PHP at first, I gradually transitioned to JavaScript and have since learned various forms of JavaScript. Currently, I use JavaScript and TypeScript to create web applications and services.",
+			"Recently, I have learned various forms of JavaScript and fallen in love with TypeScript. TypeScript addresses JavaScript's shortcomings while allowing me to write safer and more readable code. For me, working with TypeScript is like a digital tango – every piece of code and design setting perfecting my projects and making them as functional as a Swiss army knife.",
+			"Guess what? I've been part of the Void Development team for almost five years – that's a lifetime in web years! From battling quirky bugs to celebrating pixel-perfect layouts, I've become more attached to my keyboard than to my morning coffee.",
+			"So, buckle up, because I'm on a mission to sprinkle some magic on the web with every quirky and captivating application."
+		],
+		"experience": {
+			"years": "7 Years",
+			"label": "Experience"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "Completed Projects"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "Clients"
+		},
+		"read_more": "Read more"
+	},
+	"selected_works": {
+		"headline": "Selected Works",
+		"view_all": "View all works"
+	},
+	"tech_stack": {
+		"headline": "Technologies I Use",
+		"tabs": {
+			"code-editors": "Code Editors",
+			"languages": "Languages",
+			"markup-languages": "Markup Languages",
+			"frameworks": "Frameworks",
+			"databases": "Databases",
+			"services": "Services",
+			"other": "Others"
+		}
+	},
+	"works": {
+		"headline": "Works"
+	},
+	"open_source": {
+		"headline": "Open Source",
+		"view_all": "View all projects"
+	},
+	"contact": {
+		"headline": "Contact",
+		"name": "Your Name",
+		"email": "Your Email Address",
+		"message": "Your Message",
+		"phone": "Your Phone Number",
+		"company": "Your Company",
+		"send": "Send",
+		"success": "Your message has been successfully sent.",
+		"error": {
+			"required": "The {field} field is required.",
+			"unknown": "An error occurred. Please try again later."
+		}
+	},
+	"cta": {
+		"headline": "Let's Work Together",
+		"subHeadline": "Have a project? Contact me at <mail>mail@clqu.dev</mail> and let's bring your project to life."
+	},
+	"blog": {
+		"headline": "Blog",
+		"read_more": "Read more",
+		"all": "All",
+		"noPosts": "No posts yet.",
+		"back": "Go back"
+	},
+	"footer": {
+		"rights": "All rights reserved."
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"metadata": {
+		"home": "ホーム",
+		"about": "私について",
+		"works": "作品",
+		"contact": "連絡先",
+		"blog": "ブログ",
+		"description": "フルスタックウェブ開発者。JavaScriptとTypeScriptを使用してウェブアプリケーションとサービスを作成します。私についての詳細を知り、私の作品をご覧ください。"
+	},
+	"aria": {
+		"logo": "ニックネームの代わりに使用されるテキストロゴ。ニックネームの後に異なる色のドットがあります。",
+		"navigate": "このテキストをクリックすると、「{destination}」ページに移動します。",
+		"about": "このテキストは私によって書かれました",
+		"toggle": "このボタンはメニューを切り替えます",
+		"next": "このボタンを押すと次のスライドに移動します",
+		"previous": "このボタンを押すと前のスライドに移動します"
+	},
+	"nav": {
+		"home": "ホーム",
+		"about": "私について",
+		"works": "作品",
+		"contact": "お問い合わせ",
+		"blog": "ブログ"
+	},
+	"hero": {
+		"headline": "こんにちは、私は{name}です。",
+		"subHeadline": "フルスタックWeb開発者"
+	},
+	"about": {
+		"headline": "私について",
+		"paragraphs": [
+			"こんにちは！古い時代にJavaScriptで踊り始めた、独学の親しみやすいウェブウィザードです。",
+			"私はトルコに住んでおり、2017年からウェブ開発の世界で活動しています。最初はPHPから始めましたが、徐々にJavaScriptに移行し、それ以来多くのJavaScriptのバリエーションを学びました。現在、私はJavaScriptとTypeScriptを使用してウェブアプリケーションやサービスを作成しています。",
+			"最近では、多くのJavaScriptのバリエーションを学び、TypeScriptに恋をしました。TypeScriptはJavaScriptの欠点を解消し、より安全で読みやすいコードを書くことを可能にします。私にとって、TypeScriptを使うことはデジタルタンゴのようなもので、各コードピースとデザイン設定がプロジェクトを完璧にし、スイスアーミーナイフのように機能的にします。",
+			"なんと、私はほぼ5年間Void Developmentチームの一員です - ウェブの世界では一生分の時間です！奇妙なバグと戦ったり、ピクセル完璧なレイアウトを祝ったりするうちに、私は朝のコーヒーよりもキーボードに縛られています。",
+			"ですから、シートベルトを締めてください。奇妙で魅力的なアプリケーションでウェブに少し魔法を散りばめる任務に就いています。"
+		],
+		"experience": {
+			"years": "7年",
+			"label": "経験"
+		},
+		"projects": {
+			"completed": "20+",
+			"label": "完了したプロジェクト"
+		},
+		"clients": {
+			"count": "100+",
+			"label": "クライアント"
+		},
+		"read_more": "続きを読む"
+	},
+	"selected_works": {
+		"headline": "選ばれた作品",
+		"view_all": "すべての作品を見る"
+	},
+	"tech_stack": {
+		"headline": "使用している技術",
+		"tabs": {
+			"code-editors": "コードエディタ",
+			"languages": "言語",
+			"markup-languages": "マークアップ言語",
+			"frameworks": "フレームワーク",
+			"databases": "データベース",
+			"services": "サービス",
+			"other": "その他"
+		}
+	},
+	"works": {
+		"headline": "作品"
+	},
+	"open_source": {
+		"headline": "オープンソース",
+		"view_all": "すべてのプロジェクトを見る"
+	},
+	"contact": {
+		"headline": "お問い合わせ",
+		"name": "名前",
+		"email": "メールアドレス",
+		"message": "メッセージ",
+		"phone": "電話番号",
+		"company": "会社名",
+		"send": "送信",
+		"success": "メッセージが正常に送信されました。",
+		"error": {
+			"required": "{field}は必須項目です。",
+			"unknown": "エラーが発生しました。後でもう一度お試しください。"
+		}
+	},
+	"cta": {
+		"headline": "一緒に働きましょう",
+		"subHeadline": "プロジェクトがありますか？<mail>mail@clqu.dev</mail>までご連絡ください。あなたのプロジェクトを実現しましょう。"
+	},
+	"blog": {
+		"headline": "ブログ",
+		"read_more": "続きを読む",
+		"all": "すべて",
+		"noPosts": "投稿はまだありません。",
+		"back": "戻る"
+	},
+	"footer": {
+		"rights": "全著作権所有。"
+	}
+}
